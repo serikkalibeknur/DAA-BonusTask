@@ -1,5 +1,6 @@
 package mst;
 
+
 import java.util.Objects;
 
 public class Edge implements Comparable<Edge> {
